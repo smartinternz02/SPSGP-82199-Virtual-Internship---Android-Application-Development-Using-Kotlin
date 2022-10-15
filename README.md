@@ -11,5 +11,7 @@ Grocery project :- https://github.com/Gopal-next/Grocery-App
  
 Smartinternz ID :- SPS_APL_20220096368 
 
+project report : - https://drive.google.com/file/d/1MfM1MMlqUW7HwxwzPmuJHqEyHuFlwW9Y/view?usp=sharing
+
 
 Demo video :- https://drive.google.com/file/d/15xQbeSyAfCdDia2-kYTs67vV2jmFSudC/view?usp=sharing
