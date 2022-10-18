@@ -5,7 +5,7 @@ Virtual Internship - Android Application Development Using Kotlin
 Google Developer profile :- https://g.dev/Gopal73610
 
 
-My github profile :- https://github.com/Gopal-next  
+My github repositories :- https://github.com/Gopal-next?tab=repositories 
 
 Grocery project :- https://github.com/Gopal-next/Grocery-App
  
